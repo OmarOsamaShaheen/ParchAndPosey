@@ -54,6 +54,6 @@ Sales person running total:
 
 ![Screenshot 2025-07-03 230845](https://github.com/user-attachments/assets/d20776c1-c46f-4404-a35c-c1148fd1424b)
 
-##📝 Learning & Challenges
+## 📝 Learning & Challenges
 - Gained proficiency in writing complex multi-table JOINs and utilizing CTEs for clearer query structures.
 - A specific challenge involved calculating total sales by various "types" from a single table, without a dedicated product type column. This led me to effectively utilize the "UNION ALL" method. This experience deepened my understanding of how to combine and structure data from different parts of a table or similar tables to achieve specific aggregated reporting views, showcasing adaptability in querying diverse data structures for analytical purposes.
